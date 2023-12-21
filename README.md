@@ -6,13 +6,13 @@
 Deliveroo is a British multinational delivery company, delivering goods for restaurants and stores to customers with ease.
 
 ## Project Technological Stack:
-* Expo for quick start and deployment.
-* ReactJS for the UI.
-* Javascript for typing.
-* TailwindCSS for styling.
-* Redux for state management.
-* Google Cloud API's: Google Maps.
-* Sanity for content management.
+* Expo: Rapid tooling and deployment platform for React Native applications.
+* ReactJS: Framework for building interactive user interfaces.
+* JavaScript: Programming language for typing and scripting functionalities.
+* TailwindCSS: Utility-first CSS framework for rapid styling and customization.
+* Redux: Library for managing application state in JavaScript apps.
+* Google Cloud API's (Google Maps): Services offering mapping functionality for apps.
+* Sanity: Headless CMS offering content management solutions.
 
 ## Usage:
 * To run locally:\
