@@ -4,6 +4,7 @@
    # Delivero2.0 - a simple Deliveroo clone-:
 </div>
 
+## :star2: About the Project
 
 Deliveroo is a British multinational delivery company, delivering goods for restaurants and stores to customers with ease.
 
@@ -20,7 +21,14 @@ Deliveroo is a British multinational delivery company, delivering goods for rest
 
 ## Features:
 
-
+*     Dynamic menu management using SanityCMS.
+*     Customized search and filtering with GROQ.
+*     Order state management through Redux.
+*     Responsive and appealing UI with TailwindCSS.
+*     Efficient navigation and order tracking.
+*     Secure payment gateway integration.
+*     User-friendly navigation.
+  
 ## Getting Started
 
 To run the app, you will need to have the following installed on your machine:
