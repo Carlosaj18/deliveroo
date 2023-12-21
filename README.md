@@ -16,11 +16,11 @@ Deliveroo is a British multinational delivery company, delivering goods for rest
 
 ## Usage:
 * To run locally:\
-  1. Clone this repository. \
-  2. Run npm install to install all dependencies. \
-  3. Execute expo start. \
-  4. Run npm run android to launch on an Android device (requires adb & Android Studio) or npm run ios to start on an IOS Simulator (requires Xcode). Alternatively, connect your device.\
-  5. Wait for the build to complete, and enjoy!"\
+        1. Clone this repository. \
+        2. Run npm install to install all dependencies. \
+        3. Execute expo start. \
+        4. Run npm run android to launch on an Android device (requires adb & Android Studio) or npm run ios to start on an IOS Simulator (requires Xcode). Alternatively, connect your device.\
+        5. Wait for the build to complete, and enjoy!"\
  
  ## Demo & Showcasing:
  - Photos:
