@@ -12,10 +12,11 @@ Deliveroo is a British multinational delivery company, delivering goods for rest
 * TailwindCSS: Utility-first CSS framework for rapid styling and customization.
 * Redux: Library for managing application state in JavaScript apps.
 * Google Cloud API's (Google Maps): Services offering mapping functionality for apps.
-* Sanity CMS: For the backend, we used Sanity CMS to manage the content and data for the app. Sanity provides a flexible, customizable CMS platform that allows us to easily manage data and content for our app.
-* React Native Animatable: To add some animations to the app, we used React Native Animatable, a library of pre-built animations that can be easily customized and added to our app.
-* React Native Progress: To display a loading bar while fetching data, we used React Native Progress, a library that provides a range of customizable progress indicators for our app.
-* React Navigation: For navigation within the app, we used React Navigation, a popular library for building navigation in React Native apps. React Navigation provides a flexible and customizable navigation solution that works across multiple platforms.
+* Sanity CMS: Gestión flexible de contenido para el backend de la aplicación.
+* React Native Animatable: Adición de animaciones mediante una biblioteca preconstruida y personalizable.
+* React Native Progress: Implementación de barras de carga personalizables durante la obtención de datos.
+* React Navigation: Solución flexible de navegación para la aplicación en múltiples plataformas.
+
 
 ## Usage:
 * To run locally:\
